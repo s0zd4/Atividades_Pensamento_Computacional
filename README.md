@@ -15,4 +15,5 @@ Um pseudocódigo criado para monitorar o fluxo de alunos, alunos presentes e nã
 
 ## 5° Atividade - Projeto Pensamento Computacional para Sistemas de Larga Escala
 Projeto em grupo que junta todas as práticas e conhecimento que aprendemos ao longo da matéria.
+
 [https://github.com/KaioEduardo772/Projeto-Pensamento-Computacional-para-Sistemas-de-Larga-Escala]
