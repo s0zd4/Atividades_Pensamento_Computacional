@@ -24,6 +24,11 @@ Este repositório reúne as entregas da disciplina de Pensamento Computacional. 
    - Projeto em grupo que integra as práticas e conhecimentos aprendidos na disciplina.
    - Link do projeto: [https://github.com/KaioEduardo772/Projeto-Pensamento-Computacional-para-Sistemas-de-Larga-Escala]
 
-6. **6ª Atividade — Organização de Dados de Grupo**
+6. **6ª Atividade — Tratamento de Erros e Avaliação de Soluções**
+   - Atividade de identificação e correção de bugs no projeto "Plataforma Acadêmica Inteligente".
+   - Documentação: [Atividade_caça_bugs/README.md](Atividade_caça_bugs/README.md)
+
+
+7. **7ª Atividade — Organização de Dados de Grupo**
    - Atividade sobre organização de dados em equipe.
    - Link: [https://github.com/ChristianSousa19/Aula_Organizacao_Dados_Grupo_Christian]
