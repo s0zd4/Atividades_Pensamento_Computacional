@@ -1,19 +1,29 @@
-# Atividades_Pensamento_Computacional
-Local para a entrega das atividades da matéria de Pensamento Computacional.
+# Atividades de Pensamento Computacional
 
-## 1° Atividade - Decomposição
-[https://www.canva.com/design/DAHDxwVwICY/Ewzw4Ej7Y3GJHiRkCoyjCA/edit]
+Este repositório reúne as entregas da disciplina de Pensamento Computacional. Aqui estão os registros das atividades realizadas ao longo do semestre, com descrições e links para os materiais ou projetos desenvolvidos.
 
-## 2° Atividade - Decomposição de Problemas Aula 19/03/2026
-Nessa atividade decompomos um problema da vida real ou de um sistema, foi feito a decomposição de um problema real junto com um diagramda do mesmo.
+## Conteúdo do Repositório
 
-## 3° Atividade - Relatório Aula 12/03/2026
-Relatório referente a aula de 12/03/2026, resumindo como o pensamento computacional cresceu até se tornar o que é nos dias de hoje, sua origem e as áreas que se originaram a partir dele.
+1. **1ª Atividade — Decomposição**
+   - Trabalho sobre decomposição de problemas.
+   - Link: [https://www.canva.com/design/DAHDxwVwICY/Ewzw4Ej7Y3GJHiRkCoyjCA/edit]
 
-## 4° Atividade - lógica e Algoritmos Aula 16/04/2026
-Um pseudocódigo criado para monitorar o fluxo de alunos, alunos presentes e não presentes na lista de chamada.
+2. **2ª Atividade — Decomposição de Problemas (Aula 19/03/2026)**
+   - Análise e decomposição de um problema real ou de um sistema.
+   - Inclui a identificação das partes do problema e um diagrama explicativo.
 
-## 5° Atividade - Projeto Pensamento Computacional para Sistemas de Larga Escala
-Projeto em grupo que junta todas as práticas e conhecimento que aprendemos ao longo da matéria.
+3. **3ª Atividade — Relatório (Aula 12/03/2026)**
+   - Relatório sobre a evolução do pensamento computacional.
+   - Aborda a origem do pensamento computacional e as áreas que surgiram a partir dele.
 
-[https://github.com/KaioEduardo772/Projeto-Pensamento-Computacional-para-Sistemas-de-Larga-Escala]
+4. **4ª Atividade — Lógica e Algoritmos (Aula 16/04/2026)**
+   - Pseudocódigo para monitorar o fluxo de alunos.
+   - Cobre presença, ausência e controle de lista de chamada.
+
+5. **5ª Atividade — Projeto: Pensamento Computacional para Sistemas de Larga Escala**
+   - Projeto em grupo que integra as práticas e conhecimentos aprendidos na disciplina.
+   - Link do projeto: [https://github.com/KaioEduardo772/Projeto-Pensamento-Computacional-para-Sistemas-de-Larga-Escala]
+
+6. **6ª Atividade — Organização de Dados de Grupo**
+   - Atividade sobre organização de dados em equipe.
+   - Link: [https://github.com/ChristianSousa19/Aula_Organizacao_Dados_Grupo_Christian]
